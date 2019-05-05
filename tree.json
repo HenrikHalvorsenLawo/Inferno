@@ -1,0 +1,28 @@
+[
+	{ 
+		"isOnline": true,
+		"identifier": "Inferno",
+		"children": [
+			{
+				"number": 100,
+				"isOnline": true,
+				"identifier": "Inferno1",
+				"ip": "192.168.0.1",
+				"children": [
+					{
+						"identifier": "gain",
+						"value": 0,
+						"access": "readWrite",
+						"type": "integer"
+					},
+					{
+						"identifier": "onair",
+						"value": true,
+						"access": "readWrite",
+						"type": "boolean"
+					}
+				]
+			}
+		]
+	}
+]

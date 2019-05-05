@@ -1,0 +1,23 @@
+{
+  "name": "inferno",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jp-jp-jp/Inferno.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jp-jp-jp/Inferno/issues"
+  },
+  "homepage": "https://github.com/jp-jp-jp/Inferno#readme",
+  "dependencies": {
+    "emberplus": "git+https://github.com/evs-broadcast/node-emberplus.git",
+    "ws": "^7.0.0"
+  }
+}
